@@ -1,0 +1,17 @@
+<resources>
+    <string name="login_with_google">Login with Google</string>
+    <string name="logout">Logout</string>
+    <string name="login_as_default">Login sebagai: -</string>
+    <string name="login_as_with_email">Login sebagai: %s (%s)</string>
+    <string name="surah_list_description">Daftar Surah Al-Quran</string>
+    <string name="profile_title">Profil Pengguna</string>
+    <string name="profile_info">Nama: %s\nEmail: %s</string>
+    <string name="error_id_token_not_found">ID Token tidak ditemukan</string>
+    <string name="error_login_failed">Login gagal</string>
+    <string name="error_google_sign_in_failed">Google Sign-In gagal</string>
+    <string name="error_fetch_data_failed">Gagal mengambil data</string>
+    <string name="error_network">Error: %s</string>
+    <string name="default_web_client_id">103519827369-cfnnrrif4d6qa2d0ib2sapq8atggeb3n.apps.googleusercontent.com</string>
+    <string name="app_name" />
+    <string name="login_info" />
+</resources>
